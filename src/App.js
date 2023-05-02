@@ -1,5 +1,6 @@
 import React from "react";
-import Counsel from "./Counsel";
+import Counsel from "./components/Counsel";
+// import CounselList from "./components/CounselList";
 
 function App() {
   return (
